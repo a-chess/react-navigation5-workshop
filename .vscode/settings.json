@@ -1,7 +1,0 @@
-{
-  "editor.formatOnSave": true,
-  "javascript.format.enable": false,
-  "typescript.updateImportsOnFileMove.enabled": "always",
-  // "prettier.tslintIntegration": true,
-  "tslint.autoFixOnSave": true
-}
